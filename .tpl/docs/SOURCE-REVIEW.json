@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-11-02T19:50:34.889Z",
+  "environment": "Windows read-only source parsing, ESLint, and asset path review. No installation, TypeScript emit, bundling or builds.",
+  "method": "复用本机已安装的同版本TypeScript解析器和ESLint，仅只读解析语法、检查相对导入及引用素材路径、执行静态lint，没有emit、安装或构建。正式验收须在本地Linux环境执行project.json中的原生命令。",
+  "result": {
+    "id": "manufacturing",
+    "files": 43,
+    "syntaxErrors": [],
+    "lintErrors": 0,
+    "lintWarnings": 0
+  }
+}

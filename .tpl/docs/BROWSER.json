@@ -1,0 +1,3465 @@
+{
+  "checkedAt": "2026-11-03T01:42:50.163Z",
+  "browser": "Codex 内置浏览器",
+  "checks": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/equipment"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/quality"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/about"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/careers"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/quote"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/cnc-milling"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/cnc-turning"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/sheet-metal"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/welding-fabrication"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/assembly"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/capabilities/finishing"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/aerospace"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/medical"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/energy"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/robotics"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/semiconductor"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/industries/industrial-equipment"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/wing-rib-brackets"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/surgical-robot-housings"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/careers/machinist-apprentice"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/new-5-axis-machines"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/as9100d-audit"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/contact"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/privacy"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/terms"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/robot-joint-housings"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/chamber-lids"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/careers/quality-inspector"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/design-for-machining"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/equipment"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/equipment"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/quality"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/quality"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/about"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/about"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/careers"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/careers"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/quote"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/quote"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/cnc-milling"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/cnc-milling"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/cnc-turning"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/cnc-turning"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/sheet-metal"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/sheet-metal"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/welding-fabrication"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/welding-fabrication"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/assembly"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/assembly"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/capabilities/finishing"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/capabilities/finishing"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/aerospace"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/aerospace"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/medical"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/medical"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/energy"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/energy"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/robotics"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/robotics"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/semiconductor"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/semiconductor"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/industries/industrial-equipment"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/industries/industrial-equipment"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/wing-rib-brackets"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/wing-rib-brackets"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/surgical-robot-housings"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/surgical-robot-housings"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/careers/machinist-apprentice"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/careers/machinist-apprentice"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/new-5-axis-machines"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/new-5-axis-machines"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/as9100d-audit"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/as9100d-audit"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/contact"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/contact"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/privacy"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/privacy"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/terms"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/terms"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/robot-joint-housings"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/robot-joint-housings"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/chamber-lids"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/chamber-lids"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/careers/quality-inspector"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/careers/quality-inspector"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/design-for-machining"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/design-for-machining"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/equipment"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/equipment"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/quality"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/quality"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/about"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/about"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/careers"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/careers"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/quote"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/quote"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/cnc-milling"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/cnc-milling"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/cnc-turning"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/cnc-turning"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/sheet-metal"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/sheet-metal"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/welding-fabrication"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/welding-fabrication"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/assembly"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/assembly"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/capabilities/finishing"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/capabilities/finishing"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/aerospace"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/aerospace"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/medical"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/medical"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/energy"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/energy"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/robotics"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/robotics"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/semiconductor"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/semiconductor"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/industries/industrial-equipment"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/industries/industrial-equipment"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/wing-rib-brackets"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/wing-rib-brackets"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/surgical-robot-housings"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/surgical-robot-housings"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/careers/machinist-apprentice"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/careers/machinist-apprentice"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/new-5-axis-machines"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/new-5-axis-machines"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/as9100d-audit"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/as9100d-audit"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/contact"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/contact"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/privacy"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/privacy"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/terms"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/terms"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/robot-joint-housings"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/robot-joint-housings"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/chamber-lids"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/chamber-lids"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/careers/quality-inspector"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/careers/quality-inspector"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/design-for-machining"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/design-for-machining"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/equipment"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/equipment"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/quality"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/quality"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/about"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/about"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/careers"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/careers"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/quote"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/quote"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/cnc-milling"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/cnc-milling"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/cnc-turning"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/cnc-turning"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/sheet-metal"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/sheet-metal"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/welding-fabrication"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/welding-fabrication"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/assembly"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/assembly"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/capabilities/finishing"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/capabilities/finishing"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/aerospace"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/aerospace"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/medical"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/medical"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/energy"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/energy"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/robotics"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/robotics"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/semiconductor"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/semiconductor"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/industries/industrial-equipment"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/industries/industrial-equipment"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/wing-rib-brackets"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/wing-rib-brackets"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/surgical-robot-housings"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/surgical-robot-housings"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/hydrogen-valve-bodies"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/careers/machinist-apprentice"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/careers/machinist-apprentice"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/new-5-axis-machines"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/new-5-axis-machines"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/how-we-quote-in-48-hours"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/as9100d-audit"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/as9100d-audit"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/contact"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/contact"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/privacy"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/privacy"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/terms"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/terms"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/robot-joint-housings"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/robot-joint-housings"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/chamber-lids"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/chamber-lids"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/projects/hydraulic-manifolds"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/careers/cnc-machinist-second-shift"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/careers/swiss-lathe-operator"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/careers/quality-inspector"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/careers/quality-inspector"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/apprenticeship-class-2026"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/design-for-machining"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/design-for-machining"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/news/why-we-run-a-second-shift"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/en/style-guide"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/style-guide"
+    },
+    {
+      "width": 834,
+      "height": 1180,
+      "broken": [],
+      "content": 824,
+      "h1": 1,
+      "scroll": 824,
+      "url": "/en/style-guide"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/style-guide"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "broken": [],
+      "content": 380,
+      "h1": 1,
+      "scroll": 380,
+      "url": "/en/style-guide"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/style-guide"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "broken": [],
+      "content": 310,
+      "h1": 1,
+      "scroll": 310,
+      "url": "/en/style-guide"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/equipment",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/quality",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/about",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/careers",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/quote",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/cnc-milling",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/cnc-turning",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/sheet-metal",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/welding-fabrication",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/assembly",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/capabilities/finishing",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/aerospace",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/medical",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/energy",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/robotics",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/semiconductor",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/industries/industrial-equipment",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/wing-rib-brackets",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/surgical-robot-housings",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/hydrogen-valve-bodies",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/careers/machinist-apprentice",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/new-5-axis-machines",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/how-we-quote-in-48-hours",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/as9100d-audit",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/contact",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/privacy",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/terms",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/style-guide",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/robot-joint-housings",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/chamber-lids",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/projects/hydraulic-manifolds",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/careers/cnc-machinist-second-shift",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/careers/swiss-lathe-operator",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/careers/quality-inspector",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/apprenticeship-class-2026",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/design-for-machining",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "broken": [],
+      "content": 1430,
+      "h1": 1,
+      "scroll": 1430,
+      "url": "/news/why-we-run-a-second-shift",
+      "viewport": [
+        1440,
+        1000
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "check": "mobile-menu-open",
+      "dialog": true,
+      "focus": "制造能力",
+      "locked": "hidden"
+    },
+    {
+      "check": "mobile-menu-close",
+      "dialog": true,
+      "focus": "打开菜单",
+      "locked": ""
+    },
+    {
+      "check": "video-paused",
+      "paused": true,
+      "ready": 4,
+      "time": 0.7878,
+      "url": "/"
+    },
+    {
+      "check": "video-resumed",
+      "paused": false,
+      "ready": 4,
+      "time": 1.0368,
+      "url": "/"
+    },
+    {
+      "check": "menu-exit-complete",
+      "dialog": false,
+      "focus": "打开菜单",
+      "locked": ""
+    },
+    {
+      "check": "process-initial",
+      "label": "工位 1 / 5",
+      "pinTop": 592.7604370117188,
+      "runwayTop": 592.7604370117188
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 592.7604370117188,
+      "runwayTop": 592.7604370117188
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 242.7604217529297,
+      "runwayTop": 242.7604217529297
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 0,
+      "runwayTop": -107.23958587646484
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 2 / 5",
+      "pinTop": 0,
+      "runwayTop": -457.2395935058594
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 3 / 5",
+      "pinTop": 0,
+      "runwayTop": -807.2396240234375
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 4 / 5",
+      "pinTop": 0,
+      "runwayTop": -1157.2396240234375
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 5 / 5",
+      "pinTop": 0,
+      "runwayTop": -1507.2396240234375
+    },
+    {
+      "check": "process-scroll",
+      "label": "工位 5 / 5",
+      "pinTop": -107.23958587646484,
+      "runwayTop": -1857.2396240234375
+    },
+    {
+      "check": "invalid-form",
+      "invalid": [
+        "name",
+        "company",
+        "email",
+        "quantity"
+      ],
+      "status": false
+    },
+    {
+      "check": "valid-local-form",
+      "status": "本地校验通过。信息未发送、未保存，不构成真实报价、应聘或订单。"
+    },
+    {
+      "check": "language-preserves-page-query-hash",
+      "url": "http://localhost:3042/en/equipment?probe=motion#dt-main"
+    },
+    {
+      "check": "theme-preserved-on-client-navigation",
+      "theme": "light",
+      "url": "/en/quality"
+    },
+    {
+      "check": "equipment-filter",
+      "group": "cnc-milling",
+      "rows": [
+        "5-axis VMC 750",
+        "Horizontal HMC 630",
+        "Vertical VMC 1600",
+        "Mill-turn MT 2500",
+        "Wire EDM W 600",
+        "Surface grinder SG 1224"
+      ],
+      "matches": true
+    },
+    {
+      "check": "equipment-filter",
+      "group": "cnc-turning",
+      "rows": [
+        "Turning center TC 400",
+        "Swiss lathe SL 32",
+        "Bandsaw BS 330"
+      ],
+      "matches": true
+    },
+    {
+      "check": "equipment-filter",
+      "group": "sheet-metal",
+      "rows": [
+        "Fiber laser FL 6kW",
+        "Press brake PB 170"
+      ],
+      "matches": true
+    },
+    {
+      "check": "equipment-filter",
+      "group": "welding-fabrication",
+      "rows": [
+        "Robotic weld cell RW 2"
+      ],
+      "matches": true
+    },
+    {
+      "check": "equipment-filter",
+      "group": "assembly",
+      "rows": [
+        "Bridge CMM 1210"
+      ],
+      "matches": true
+    },
+    {
+      "check": "equipment-filter",
+      "group": "finishing",
+      "rows": [
+        "Blast cabinet BC 48"
+      ],
+      "matches": true
+    },
+    {
+      "check": "faq-open",
+      "text": "建议提供 STEP 或 IGES 三维文件、标注公差的 PDF 图纸、材料、数量与目标交期。演示表单不会访问或上传链接。"
+    },
+    {
+      "check": "faq-closed",
+      "passed": true
+    },
+    {
+      "check": "capability-focus-switch",
+      "active": "03钣金加工",
+      "focus": "03钣金加工",
+      "images": [
+        "CNC 铣削",
+        "CNC 车削",
+        "钣金加工"
+      ]
+    },
+    {
+      "check": "capability-transition-finished",
+      "active": "03钣金加工",
+      "images": [
+        "钣金加工"
+      ]
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 675.3021240234375
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 321.3020935058594
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 1 / 5",
+      "pinTop": 0
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 2 / 5",
+      "pinTop": 0
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 3 / 5",
+      "pinTop": 0
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 4 / 5",
+      "pinTop": 0
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 5 / 5",
+      "pinTop": 0
+    },
+    {
+      "check": "tablet-process-scroll",
+      "label": "工位 5 / 5",
+      "pinTop": -52.69791793823242
+    },
+    {
+      "check": "mobile-process-end",
+      "cards": 5,
+      "images": [
+        {
+          "alt": "报价",
+          "loaded": true
+        },
+        {
+          "alt": "编程与夹具",
+          "loaded": true
+        },
+        {
+          "alt": "首件检验",
+          "loaded": true
+        },
+        {
+          "alt": "批量生产",
+          "loaded": true
+        },
+        {
+          "alt": "表面处理与出货",
+          "loaded": true
+        }
+      ],
+      "runwayDisplay": "none",
+      "scrollWidth": 380,
+      "scrollY": 11720.6669921875,
+      "width": 380
+    }
+  ],
+  "limitations": [
+    "未实机切换系统减少动态设置。",
+    "未对全部动效逐帧量化；已实测工位、菜单、视频、FAQ、能力切换与本地表单。"
+  ],
+  "captureValidation": "保存前读取实际innerWidth/innerHeight，与目标视口比较；截图尺寸由图像解码生成。"
+}

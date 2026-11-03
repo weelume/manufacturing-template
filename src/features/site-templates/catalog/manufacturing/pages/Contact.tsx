@@ -1,0 +1,8 @@
+import type { SiteTemplatePageProps } from '../../../types'
+import { getPage } from '../content/catalog'
+import { brand } from '../config'
+import { Shell } from '../components/Shell'
+import { PageHeader,CTA } from '../components/Common'
+import { LocalForm } from '../components/Forms'
+import { Reveal } from '../components/Motion'
+export default function Contact({locale='zh',basePath}:SiteTemplatePageProps){const page=getPage('contact');return <Shell locale={locale} basePath={basePath}><PageHeader page={page} locale={locale} basePath={basePath}/><section className="dt-wrap dt-section dt-section-first dt-split dt-align-start"><div><dl className="dt-ledger dt-contact-ledger">{[[locale==='zh'?'地址':'Address',brand.address],[locale==='zh'?'电话':'Phone',brand.phone],[locale==='zh'?'报价':'Quotes',brand.email],[locale==='zh'?'招聘':'Jobs',brand.jobsEmail],[locale==='zh'?'办公室':'Office',locale==='zh'?'周一至周五 · 7:30–17:00':'Mon to Fri, 7:30am to 5pm'],[locale==='zh'?'收货':'Receiving',locale==='zh'?'周一至周五 · 7:00–15:00':'Mon to Fri, 7am to 3pm'],[locale==='zh'?'坐标':'Coordinates',brand.coordinates]].map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl><p>{locale==='zh'?'周二 15:00–17:00 为示例参观时段，真实到访请先联系确认。':'Tours on Tuesdays from 3 to 5pm. Confirm a real visit separately.'}</p></div><LocalForm mode="contact" locale={locale}/></section><Reveal className="dt-wrap" scale><img className="dt-page-photo" src={page.images[0]} alt={locale==='zh'?'正门入口，访客停车位在左侧':'Front entrance. Visitor parking is on the left.'} loading="lazy"/></Reveal><CTA locale={locale} basePath={basePath}/></Shell>}

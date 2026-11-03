@@ -1,0 +1,443 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "manufacturing",
+  "version": "1.0.0",
+  "name": "Datum · 精密制造",
+  "localizedNames": {
+    "en": "Datum · Precision manufacturing"
+  },
+  "gitUrl": "https://github.com/weelume/manufacturing-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "工业制造",
+    "视频首屏",
+    "深浅主题",
+    "滚动工位",
+    "设备筛选",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "summary": "精密制造企业整站，包含六项能力、六大行业、六个项目、十四项设备、质量体系、招聘、新闻与报价演示。",
+  "accentColor": "#d63d2a",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "manufacturing desktop home",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-equipment.webp",
+      "alt": "manufacturing desktop equipment",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-news.webp",
+      "alt": "manufacturing desktop news",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-quote.webp",
+      "alt": "manufacturing desktop quote",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "manufacturing tablet home",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-equipment.webp",
+      "alt": "manufacturing tablet equipment",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-news.webp",
+      "alt": "manufacturing tablet news",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-quote.webp",
+      "alt": "manufacturing tablet quote",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "manufacturing mobile home",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-equipment.webp",
+      "alt": "manufacturing mobile equipment",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-news.webp",
+      "alt": "manufacturing mobile news",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-quote.webp",
+      "alt": "manufacturing mobile quote",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "第一次交付 就严丝合缝",
+          "localizedTitles": {
+            "en": "Machined parts that fit the first time."
+          }
+        },
+        {
+          "slug": "capabilities",
+          "title": "六大能力 同一屋檐",
+          "localizedTitles": {
+            "en": "Six capabilities under one roof"
+          }
+        },
+        {
+          "slug": "industries",
+          "title": "为关键行业 制造可靠零件",
+          "localizedTitles": {
+            "en": "Parts for six industries that check everything twice"
+          }
+        },
+        {
+          "slug": "equipment",
+          "title": "车间里的 每一台设备",
+          "localizedTitles": {
+            "en": "Every machine on our floor"
+          }
+        },
+        {
+          "slug": "quality",
+          "title": "测量、签核 全程可追溯",
+          "localizedTitles": {
+            "en": "Measured, signed and traceable"
+          }
+        },
+        {
+          "slug": "projects",
+          "title": "做过的零件 与解决的问题",
+          "localizedTitles": {
+            "en": "Parts we are proud of, and what they took"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "两代人 一间精密制造车间",
+          "localizedTitles": {
+            "en": "A family machine shop, second generation"
+          }
+        },
+        {
+          "slug": "careers",
+          "title": "让好手艺 有更好的未来",
+          "localizedTitles": {
+            "en": "Make parts that fly, heal and hold pressure"
+          }
+        },
+        {
+          "slug": "quote",
+          "title": "发来图纸 48 小时内报价",
+          "localizedTitles": {
+            "en": "Send a drawing, get a written quote within 48 hours"
+          }
+        },
+        {
+          "slug": "capabilities/cnc-milling",
+          "title": "CNC 铣削",
+          "localizedTitles": {
+            "en": "CNC milling"
+          }
+        },
+        {
+          "slug": "capabilities/cnc-turning",
+          "title": "CNC 车削",
+          "localizedTitles": {
+            "en": "CNC turning"
+          }
+        },
+        {
+          "slug": "capabilities/sheet-metal",
+          "title": "钣金加工",
+          "localizedTitles": {
+            "en": "Sheet metal"
+          }
+        },
+        {
+          "slug": "capabilities/welding-fabrication",
+          "title": "焊接与结构制造",
+          "localizedTitles": {
+            "en": "Welding and fabrication"
+          }
+        },
+        {
+          "slug": "capabilities/assembly",
+          "title": "装配",
+          "localizedTitles": {
+            "en": "Assembly"
+          }
+        },
+        {
+          "slug": "capabilities/finishing",
+          "title": "表面处理",
+          "localizedTitles": {
+            "en": "Finishing"
+          }
+        },
+        {
+          "slug": "industries/aerospace",
+          "title": "航空航天",
+          "localizedTitles": {
+            "en": "Aerospace"
+          }
+        },
+        {
+          "slug": "industries/medical",
+          "title": "医疗器械",
+          "localizedTitles": {
+            "en": "Medical devices"
+          }
+        },
+        {
+          "slug": "industries/energy",
+          "title": "能源",
+          "localizedTitles": {
+            "en": "Energy"
+          }
+        },
+        {
+          "slug": "industries/robotics",
+          "title": "机器人与自动化",
+          "localizedTitles": {
+            "en": "Robotics and automation"
+          }
+        },
+        {
+          "slug": "industries/semiconductor",
+          "title": "半导体设备",
+          "localizedTitles": {
+            "en": "Semiconductor equipment"
+          }
+        },
+        {
+          "slug": "industries/industrial-equipment",
+          "title": "工业设备",
+          "localizedTitles": {
+            "en": "Industrial equipment"
+          }
+        },
+        {
+          "slug": "projects/wing-rib-brackets",
+          "title": "4,200 件翼肋支架 零不良交付",
+          "localizedTitles": {
+            "en": "4,200 wing rib brackets with zero rejects"
+          }
+        },
+        {
+          "slug": "projects/surgical-robot-housings",
+          "title": "手术机器人的钛合金壳体",
+          "localizedTitles": {
+            "en": "Titanium housings for a surgical robot"
+          }
+        },
+        {
+          "slug": "projects/hydrogen-valve-bodies",
+          "title": "氢气压缩机的不锈钢阀体",
+          "localizedTitles": {
+            "en": "Stainless valve bodies for a hydrogen compressor"
+          }
+        },
+        {
+          "slug": "careers/machinist-apprentice",
+          "title": "机械加工学徒",
+          "localizedTitles": {
+            "en": "Machinist apprentice"
+          }
+        },
+        {
+          "slug": "news",
+          "title": "来自制造现场",
+          "localizedTitles": {
+            "en": "From the shop floor"
+          }
+        },
+        {
+          "slug": "news/new-5-axis-machines",
+          "title": "两台全新五轴机床 已投入生产",
+          "localizedTitles": {
+            "en": "Two new 5-axis machines are on the floor"
+          }
+        },
+        {
+          "slug": "news/how-we-quote-in-48-hours",
+          "title": "我们如何在 48 小时内完成报价",
+          "localizedTitles": {
+            "en": "How we quote in 48 hours"
+          }
+        },
+        {
+          "slug": "news/as9100d-audit",
+          "title": "AS9100D 监督审核顺利通过",
+          "localizedTitles": {
+            "en": "We passed our AS9100D surveillance audit"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "来车间坐坐 与工程师聊聊",
+          "localizedTitles": {
+            "en": "Visit the shop, or call the people who run it"
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy policy"
+          }
+        },
+        {
+          "slug": "terms",
+          "title": "使用条款",
+          "localizedTitles": {
+            "en": "Terms of use"
+          }
+        },
+        {
+          "slug": "style-guide",
+          "title": "设计规范",
+          "localizedTitles": {
+            "en": "The Datum design system"
+          }
+        },
+        {
+          "slug": "projects/robot-joint-housings",
+          "title": "机器人关节壳体 从样件到月产 500 件",
+          "localizedTitles": {
+            "en": "Robot joint housings, prototype to 500 a month"
+          }
+        },
+        {
+          "slug": "projects/chamber-lids",
+          "title": "半导体设备的抛光腔盖",
+          "localizedTitles": {
+            "en": "Polished chamber lids for a semiconductor tool"
+          }
+        },
+        {
+          "slug": "projects/hydraulic-manifolds",
+          "title": "林业机械的液压歧管",
+          "localizedTitles": {
+            "en": "Hydraulic manifolds for a forestry machine builder"
+          }
+        },
+        {
+          "slug": "careers/cnc-machinist-second-shift",
+          "title": "CNC 技师 · 第二班",
+          "localizedTitles": {
+            "en": "CNC machinist, second shift"
+          }
+        },
+        {
+          "slug": "careers/swiss-lathe-operator",
+          "title": "走心机操作员",
+          "localizedTitles": {
+            "en": "Swiss lathe operator"
+          }
+        },
+        {
+          "slug": "careers/quality-inspector",
+          "title": "质量检验员",
+          "localizedTitles": {
+            "en": "Quality inspector"
+          }
+        },
+        {
+          "slug": "news/apprenticeship-class-2026",
+          "title": "2026 届制造学徒加入团队",
+          "localizedTitles": {
+            "en": "Our apprenticeship class of 2026"
+          }
+        },
+        {
+          "slug": "news/design-for-machining",
+          "title": "让零件更经济的加工设计",
+          "localizedTitles": {
+            "en": "Designing parts that are cheaper to machine"
+          }
+        },
+        {
+          "slug": "news/why-we-run-a-second-shift",
+          "title": "为什么我们依然坚持第二班",
+          "localizedTitles": {
+            "en": "Why we still run a second shift"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "commercial",
+    "file": "docs/LICENSE.md",
+    "summary": "用户已确认参考模板与素材再分发授权；各自许可仍适用。",
+    "redistributionAllowed": true
+  }
+}

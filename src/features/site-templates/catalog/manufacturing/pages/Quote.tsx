@@ -1,0 +1,7 @@
+import type { SiteTemplatePageProps } from '../../../types'
+import { getPage } from '../content/catalog'
+import { brand } from '../config'
+import { Shell } from '../components/Shell'
+import { PageHeader } from '../components/Common'
+import { LocalForm } from '../components/Forms'
+export default function Quote({locale='zh',basePath}:SiteTemplatePageProps){return <Shell locale={locale} basePath={basePath}><PageHeader page={getPage('quote')} locale={locale} basePath={basePath}/><section className="dt-wrap dt-section dt-section-first dt-detail-row dt-align-start"><LocalForm locale={locale}/><aside><h2>{locale==='zh'?'接下来会怎样':'What happens next'}</h2><ol className="dt-next-steps">{(locale==='zh'?['工程师当天审阅图纸','信息不清晰时，先提出问题或 DFM 建议','提供包含价格和交期的书面报价','确认后，安排首件制造']:['An engineer reviews your drawing the same day','We send questions or a DFM note if anything is unclear','You get a written quote with price and lead time','Approve it and we schedule your first article']).map((text,i)=><li key={text}><span>0{i+1}</span>{text}</li>)}</ol><h3>{locale==='zh'?'支持的文件格式':'Files we accept'}</h3><div className="dt-tags">{['STEP','IGES','Parasolid','SolidWorks','PDF','DXF','DWG'].map(t=><span key={t}>{t}</span>)}</div><div className="dt-glass dt-engineer"><h3>{locale==='zh'?'更想先聊一聊':'Rather talk it through?'}</h3><a href={brand.phoneHref}>{brand.phone}</a><p>{locale==='zh'?'工程负责人 Dan Okafor，周一至周五 7:30–17:00（美国中部时间）。示例联系方式。':'Dan Okafor, engineering lead. Mon to Fri, 7:30am to 5pm Central. Demonstration contact.'}</p></div></aside></section></Shell>}

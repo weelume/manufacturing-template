@@ -1,0 +1,7 @@
+import type { SiteTemplatePageProps } from '../../../types'
+import { getPage } from '../content/catalog'
+import { copy } from '../config'
+import { Shell } from '../components/Shell'
+import { PageHeader,Heading,CTA } from '../components/Common'
+import { EquipmentTable } from '../components/EquipmentTable'
+export default function Equipment({locale='zh',basePath}:SiteTemplatePageProps){return <Shell locale={locale} basePath={basePath}><PageHeader page={getPage('equipment')} locale={locale} basePath={basePath}/><section className="dt-wrap dt-section dt-section-first"><EquipmentTable locale={locale}/></section><section className="dt-tone"><div className="dt-wrap dt-section dt-split"><div><Heading locale={locale} title={copy('我们用什么测量','What we measure with')}/><p>{locale==='zh'?'检验室全年保持 68°F，每件量具定期校准，并可追溯至 NIST。':'The inspection lab holds 68°F year round. Every gauge is calibrated on a schedule and traceable to NIST.'}</p></div><dl className="dt-ledger">{[[copy('桥式三坐标，扫描探头','Bridge CMM, scanning probe'),'× 2'],[copy('14 英寸光学比较仪','Optical comparator, 14 in'),'× 1'],[copy('数字高度规','Height gauges, digital'),'× 4'],[copy('表面粗糙度仪','Surface roughness tester'),'× 1'],[copy('洛氏硬度计','Rockwell hardness tester'),'× 1'],[copy('螺纹与针规组','Thread and pin gauge sets'),locale==='zh'?'完整套装':'Full sets']].map(([title,value])=><div key={String(value)+(typeof title==='object'?title.en:title)}><dt>{typeof title==='object'?title[locale]:title}</dt><dd>{typeof value==='string'?value:value[locale]}</dd></div>)}</dl></div></section><CTA locale={locale} basePath={basePath}/></Shell>}
